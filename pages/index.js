@@ -36,6 +36,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>[Nextjs Blog app practice]</p>
+        <p>Change!</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
